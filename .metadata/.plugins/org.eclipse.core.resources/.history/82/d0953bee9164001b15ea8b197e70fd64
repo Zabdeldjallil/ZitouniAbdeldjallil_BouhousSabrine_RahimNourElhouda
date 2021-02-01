@@ -104,10 +104,6 @@ public class Dessin extends JPanel{
         	c.deplacer();
             
         }
-        for (Visage v : listeVisage) {
-        	v.deplacer();
-            
-        }
     }
 
 }
